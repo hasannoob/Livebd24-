@@ -1,4 +1,4 @@
-#EXTINF:-
+#XTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐁ongo 𝐅lix ",T Sports#KODIPROP:inputstreamaddon=inputstream.adaptive#KODIPROP:inputstream.adaptive.license_type=clearkeyhttp://103.96.235.18:8080/sports1/index.m3u8
 #EXTINF:-1 tvg-id=ts1070 group-logo="" tvg-logo="https://i.postimg.cc/Bb2SzxTX/20241126-214345.png" group-title="𝐁ongo 𝐅lix ", Cricbuzz#KODIPROP:inputstreamaddon=inputstream.adaptive#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
 #EXTINF:-1 tvg-id=ts1070 group-logo="" tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐁ongo 𝐅lix ",TEN CRICKET #KODIPROP:inputstreamaddon=inputstream.adaptive#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
